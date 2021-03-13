@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "autocklikker Arthur", "autocklikker Arthur\autocklikker Arthur.csproj", "{6CA6AEE4-0092-4385-AD5E-264C06722008}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Arthurvg_clicker", "Arthurvg_clicker\Arthurvg_clicker.vdproj", "{3E848908-0D34-40F5-A9F8-3E2CE1B833A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CA6AEE4-0092-4385-AD5E-264C06722008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CA6AEE4-0092-4385-AD5E-264C06722008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CA6AEE4-0092-4385-AD5E-264C06722008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CA6AEE4-0092-4385-AD5E-264C06722008}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E848908-0D34-40F5-A9F8-3E2CE1B833A3}.Debug|Any CPU.ActiveCfg = Debug
+		{3E848908-0D34-40F5-A9F8-3E2CE1B833A3}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A1B2CB0-1B23-4DC9-93E1-9048493209A3}
+	EndGlobalSection
+EndGlobal

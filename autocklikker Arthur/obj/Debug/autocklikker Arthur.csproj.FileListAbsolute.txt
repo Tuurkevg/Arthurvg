@@ -1,0 +1,20 @@
+C:\Users\Arthur\source\repos\autocklikker Arthur\autocklikker Arthur\bin\Debug\autocklikker Arthur.exe.config
+C:\Users\Arthur\source\repos\autocklikker Arthur\autocklikker Arthur\bin\Debug\autocklikker Arthur.exe
+C:\Users\Arthur\source\repos\autocklikker Arthur\autocklikker Arthur\bin\Debug\autocklikker Arthur.pdb
+C:\Users\Arthur\source\repos\autocklikker Arthur\autocklikker Arthur\obj\Debug\autocklikker Arthur.csprojAssemblyReference.cache
+C:\Users\Arthur\source\repos\autocklikker Arthur\autocklikker Arthur\obj\Debug\autocklikker_Arthur.Properties.Resources.resources
+C:\Users\Arthur\source\repos\autocklikker Arthur\autocklikker Arthur\obj\Debug\autocklikker Arthur.csproj.GenerateResource.cache
+C:\Users\Arthur\source\repos\autocklikker Arthur\autocklikker Arthur\obj\Debug\autocklikker Arthur.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\source\repos\autocklikker Arthur\autocklikker Arthur\obj\Debug\autocklikker Arthur.exe
+C:\Users\Arthur\source\repos\autocklikker Arthur\autocklikker Arthur\obj\Debug\autocklikker Arthur.pdb
+C:\Users\Arthur\source\repos\autocklikker Arthur\autocklikker Arthur\obj\Debug\autocklikker_Arthur.Arthur_clicker.resources
+C:\Users\Arthur\Downloads\autocklikker Arthur\autocklikker Arthur\bin\Debug\autocklikker Arthur.exe.config
+C:\Users\Arthur\Downloads\autocklikker Arthur\autocklikker Arthur\bin\Debug\autocklikker Arthur.exe
+C:\Users\Arthur\Downloads\autocklikker Arthur\autocklikker Arthur\bin\Debug\autocklikker Arthur.pdb
+C:\Users\Arthur\Downloads\autocklikker Arthur\autocklikker Arthur\obj\Debug\autocklikker Arthur.csprojAssemblyReference.cache
+C:\Users\Arthur\Downloads\autocklikker Arthur\autocklikker Arthur\obj\Debug\autocklikker_Arthur.Arthur_clicker.resources
+C:\Users\Arthur\Downloads\autocklikker Arthur\autocklikker Arthur\obj\Debug\autocklikker_Arthur.Properties.Resources.resources
+C:\Users\Arthur\Downloads\autocklikker Arthur\autocklikker Arthur\obj\Debug\autocklikker Arthur.csproj.GenerateResource.cache
+C:\Users\Arthur\Downloads\autocklikker Arthur\autocklikker Arthur\obj\Debug\autocklikker Arthur.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Downloads\autocklikker Arthur\autocklikker Arthur\obj\Debug\autocklikker Arthur.exe
+C:\Users\Arthur\Downloads\autocklikker Arthur\autocklikker Arthur\obj\Debug\autocklikker Arthur.pdb
